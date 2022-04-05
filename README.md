@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Hi there :metal:
+:microscope: I’m currently examining how land covers effect flying insect biomass and diversity on a landscape scale :bug::beetle::honeybee::ant:\
+:computer: I'm also a data administrator at GBIF
 
 <!--
 **CecSve/CecSve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
