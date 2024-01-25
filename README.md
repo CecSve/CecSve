@@ -1,6 +1,5 @@
 #### Hi there :metal:
-:computer: I'm a data administrator at the GBIF Secretariat\
-:microscope: I also spend a little free time as an external researcher at the Natural History Museum of Denmark where I examine how various land covers effect flying insect biomass and diversity on a landscape scale :bug::beetle::honeybee::ant:
+:computer: I'm a data administrator at the GBIF Secretariat
 
 <!--
 **CecSve/CecSve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+:bug::beetle::honeybee::ant:
 -->
