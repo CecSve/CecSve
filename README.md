@@ -1,5 +1,5 @@
 #### Hi there :metal:
-:computer: I'm a data administrator at the GBIF Secretariat
+:computer: I'm a data project manager at the GBIF Secretariat
 
 <!--
 **CecSve/CecSve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
